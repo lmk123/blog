@@ -15,7 +15,7 @@
 ## 版权声明
 如非特别声明，所有博文都使用以下许可：
 
-自由转载-非商用-非衍生-保持署名（[创意共享3.0许可证](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)）
+[署名-非商业性使用-禁止演绎 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
 ## 为什么使用 issues 区作为博客？
 
