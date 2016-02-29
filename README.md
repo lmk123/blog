@@ -1,8 +1,8 @@
 # 我的技术博客
 
-这个项目是我自己的技术博客，使用了 Github 的 issues 区域来作为[博文发布区](https://github.com/lmk123/blog/issues)。
+这个项目是我自己的技术博客，使用了 GitHub 的 issues 区域来作为博文发布区。
 
-[关于我](https://github.com/lmk123/blog/issues/35)
+[进入博客](https://github.com/lmk123/blog/issues)
 
 ## 版权声明
 
